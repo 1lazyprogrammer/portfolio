@@ -1,0 +1,33 @@
+/* ==== FIX: Markdown darf nicht überlappen ==== */
+
+/* Ziel: Nur Content-Bereich resetten, nicht Header/Nav */
+main article,
+main .prose,
+main .markdown,
+main .content {
+  position: relative !important;
+  display: block !important;
+}
+
+/* Viele Overlap-Bugs kommen von "children sind absolut/transform" */
+main article > *,
+main .prose > *,
+main .markdown > *,
+main .content > * {
+  position: static !important;
+  float: none !important;
+  clear: both !important;
+  transform: none !important;
+}
+
+/* Codeblocks muessen Platz reservieren */
+main pre,
+main .highlight,
+main .highlight pre {
+  position: static !important;
+  display: block !important;
+  margin: 1rem 0 !important;
+  padding: 0.75rem 1rem !important;
+  overflow: auto !important;
+  white-space: pre !important;
+}
