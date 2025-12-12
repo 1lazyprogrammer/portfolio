@@ -1,0 +1,28 @@
+
+
+extra_css:
+  - extra.css
+
+#site_url: https://1lazyprogrammer.github.io/portfolio/
+site_name: Portfolio
+
+theme:
+  name: shadcn
+  show_title: true
+  show_stargazers: true
+  pygments_style:
+    light: shadcn-light
+    dark: github-dark
+
+nav:
+  - Home: index.md
+  - Portfolio M122: P_M122.md
+
+
+markdown_extensions:
+  - fenced_code
+  - codehilite
+
+
+
+ 
