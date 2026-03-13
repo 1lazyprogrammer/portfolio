@@ -2,12 +2,26 @@
 
 ## Angaben zum Interview
 
+
+
 **Interviewpartner:** Michael Schmidt
+
+
 **Funktion:** IT-Mitarbeiter
+
+
 **Thema:** Aktuelle Situation und Anforderungen an eine neue MDM Lösung
+
+
 **Datum:** 13.03.2026
+
+
 **Ort:** IT-Abteilung
+
+
 **Interviewer:** Janis Meier
+
+
 
 ## Interview
 
@@ -75,8 +89,11 @@
 
 **Michael Schmidt:** Gerne.
 
+
+
 ## Kurzfazit
 
 Das Interview zeigt, dass die Evaluation einer neuen MDM Lösung sinnvoll ist. Die heutige Lösung hat funktionale Schwächen, arbeitet nicht immer zuverlässig und verursacht zusätzlichen Aufwand in der Administration. Gleichzeitig ist die Lizenzsituation ein passender Anlass, um Alternativen zu prüfen.
 
 Wichtige Anforderungen an eine neue Lösung sind eine zuverlässige zentrale Verwaltung, stabile Richtlinien, saubere App Verteilung, gute Sicherheitsfunktionen, einfache Bedienung, gute Kompatibilität mit der bestehenden Umgebung und eine sinnvolle Wirtschaftlichkeit.
+
