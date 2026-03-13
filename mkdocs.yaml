@@ -3,7 +3,7 @@
 extra_css:
   - extra.css
 
-#site_url: https://1lazyprogrammer.github.io/portfolio/
+site_url: https://1lazyprogrammer.github.io/portfolio/
 site_name: Portfolio
 
 theme:
@@ -17,6 +17,8 @@ theme:
 nav:
   - Home: index.md
   - Portfolio M122: P_M122.md
+  - Portfolio M262: P_M262.md
+
 
 
 markdown_extensions:
